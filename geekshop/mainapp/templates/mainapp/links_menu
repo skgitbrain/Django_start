@@ -1,6 +1,0 @@
-links_menu = [
-        {'href': '', 'name': ''},
-        {'href': 'products', 'name': 'products'},
-        {'href': 'contact', 'name': 'contact'},
-
-]
