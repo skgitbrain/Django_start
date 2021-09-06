@@ -7,12 +7,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1xDFGI4iRgosRO42faoRd7Mdl0q" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -67,6 +75,8 @@
       <workItem from="1630539195121" duration="3478000" />
       <workItem from="1630662662397" duration="600000" />
       <workItem from="1630664293948" duration="4788000" />
+      <workItem from="1630913959479" duration="11961000" />
+      <workItem from="1630966564758" duration="741000" />
     </task>
     <servers />
   </component>
