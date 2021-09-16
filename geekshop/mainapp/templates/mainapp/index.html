@@ -5,8 +5,8 @@
 <head>
 	<meta charset="utf-8">
 	<title>{{ page_title|title }}</title>
-	<link rel="stylesheet" type="text/css" href="/static/style.css">
-	<link rel="stylesheet" href="/static/fonts/font-awesome/css/font-awesome.css">
+	<link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+	<link rel="stylesheet" href="{% static 'fonts/font-awesome/css/font-awesome.css' %}">
 </head>
 <body>
 	<div class="container">
@@ -88,20 +88,5 @@
         </div>
         <p class="small">Положения &amp; Условия  /  Конфиденциальность &amp; Cookies</p>
     </div>
-
-    {% for product in products %}
-      <div class="block">
-        <a href="#">
-          <img src="/media/{{ product.image }}" alt="{{ product.short_desc }}">
-          <div class="text">
-            <h3>{{ product.category.name }}</h3>
-            <h4>{{ product.name }}</h4>
-            <p>{{ product.description }}</p>
-          </div>
-        </a>
-      </div>
-    {% endfor %}
-
-	
 </body>
 </html>
