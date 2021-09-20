@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="JavaScript File" />
+        <option value="Python Script" />
         <option value="HTML File" />
       </list>
     </option>
@@ -38,11 +38,11 @@
       <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\templates\mainapp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\adminapp\templates\adminapp" />
       <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\static\css\img" />
       <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\static\img" />
       <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\static\css" />
       <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\static\js" />
-      <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\static" />
     </key>
   </component>
   <component name="RunManager">
@@ -92,6 +92,10 @@
       <workItem from="1631699427299" duration="10037000" />
       <workItem from="1631743091734" duration="8994000" />
       <workItem from="1631752379969" duration="89000" />
+      <workItem from="1631800456935" duration="275000" />
+      <workItem from="1631800949434" duration="1147000" />
+      <workItem from="1632048195040" duration="3147000" />
+      <workItem from="1632114848574" duration="5917000" />
     </task>
     <servers />
   </component>
