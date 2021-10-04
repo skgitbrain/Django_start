@@ -28,8 +28,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/geekshop/mainapp/static/img" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -38,11 +38,11 @@
       <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\templates\mainapp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\templates\mainapp" />
       <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\adminapp\templates\adminapp" />
       <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\static\css\img" />
       <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\static\img" />
       <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\static\css" />
-      <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\static\js" />
     </key>
   </component>
   <component name="RunManager">
@@ -96,6 +96,14 @@
       <workItem from="1631800949434" duration="1147000" />
       <workItem from="1632048195040" duration="3147000" />
       <workItem from="1632114848574" duration="5917000" />
+      <workItem from="1632499838365" duration="147000" />
+      <workItem from="1632500022706" duration="266000" />
+      <workItem from="1632500292827" duration="717000" />
+      <workItem from="1632501034515" duration="134000" />
+      <workItem from="1632501375226" duration="11000" />
+      <workItem from="1632501388174" duration="938000" />
+      <workItem from="1632505460716" duration="62000" />
+      <workItem from="1632505835955" duration="1286000" />
     </task>
     <servers />
   </component>
