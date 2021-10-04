@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -27,20 +28,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/geekshop/geekshop/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/geekshop/mainapp/static/img" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\static\img" />
       <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\geekshop\static" />
       <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\templates\mainapp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp" />
-      <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop" />
-      <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\geekshop" />
-      <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\templates\mainapp" />
-      <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\geekshop\static" />
+      <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\static\css\img" />
+      <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\static\img" />
+      <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\static\css" />
+      <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\static\js" />
+      <recent name="C:\Users\Stafory-93\Desktop\lessons_GB\Django_start\geekshop\mainapp\static" />
     </key>
   </component>
   <component name="RunManager">
@@ -84,6 +86,12 @@
       <workItem from="1631221406434" duration="8818000" />
       <workItem from="1631269254187" duration="646000" />
       <workItem from="1631362284040" duration="25168000" />
+      <workItem from="1631620617099" duration="1275000" />
+      <workItem from="1631689904458" duration="3074000" />
+      <workItem from="1631695243745" duration="3007000" />
+      <workItem from="1631699427299" duration="10037000" />
+      <workItem from="1631743091734" duration="8994000" />
+      <workItem from="1631752379969" duration="89000" />
     </task>
     <servers />
   </component>
