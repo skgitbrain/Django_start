@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -104,6 +104,12 @@
       <workItem from="1632501388174" duration="938000" />
       <workItem from="1632505460716" duration="62000" />
       <workItem from="1632505835955" duration="1286000" />
+      <workItem from="1632914782533" duration="30000" />
+      <workItem from="1633187479377" duration="630000" />
+      <workItem from="1633864027099" duration="64000" />
+      <workItem from="1633866720265" duration="70000" />
+      <workItem from="1633867028826" duration="104000" />
+      <workItem from="1633867625738" duration="547000" />
     </task>
     <servers />
   </component>
